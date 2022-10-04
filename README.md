@@ -3,5 +3,5 @@
 - Juan Cabrera.
 - Samuel Riascos.
 - Karen Moreno.
-- Álvaro Portocarrero.
-\nAprendizaje de Github en el curso DSII 2022B-01
+- Álvaro Portocarrero.  
+Aprendizaje de Github en el curso DSII 2022B-01
